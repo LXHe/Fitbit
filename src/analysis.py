@@ -1,4 +1,3 @@
-from os import stat
 from scipy import stats
 
 def ana_correlation(df):
